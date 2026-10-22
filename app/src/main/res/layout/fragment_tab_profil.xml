@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:stretchColumns="1">
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_nama"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_nama" />
+    </TableRow>
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_email"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="191dp"
+            android:text="@string/profile_email" />
+    </TableRow>
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_noHp"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_noHp" />
+    </TableRow>
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_nim"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_nim" />
+    </TableRow>
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_prodi"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_prodi" />
+    </TableRow>
+
+    <TableRow
+        android:layout_height="60dp"
+        android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_jurusan"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_jurusan" />
+    </TableRow>
+
+    <TableRow android:paddingVertical="8dp">
+
+        <TextView
+            android:paddingEnd="24dp"
+            android:text="@string/about_label_pt"
+            android:textStyle="bold" />
+
+        <TextView android:text="@string/profile_pt" />
+    </TableRow>
+
+</TableLayout>

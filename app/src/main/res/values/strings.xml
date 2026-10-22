@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UTS Mobile App</string>
+
+
+    <!-- Navigasi -->
+    <string name="title_menu">Menu</string>
+    <string name="title_about">About</string>
+    <string name="title_detail">Detail Produk</string>
+    <string name="error_load_data">Gagal memuat data.\nPeriksa koneksi internet, lalu tarik layar ke bawah untuk mencoba lagi.</string>
+
+    <!-- About: tab -->
+    <string name="tab_profil">Profil</string>
+    <string name="tab_tentang_saya">Tentang Saya</string>
+    <string name="foto_profil">Foto profil</string>
+
+    <!-- About: label -->
+    <string name="about_label_nama">Nama</string>
+    <string name="about_label_email">Email</string>
+    <string name="about_label_noHp">No.HP</string>
+    <string name="about_label_nim">NIM</string>
+    <string name="about_label_prodi">Prodi</string>
+    <string name="about_label_jurusan">Jurusan</string>
+    <string name="about_label_pt">Perguruan Tinggi</string>
+
+    <!-- About: DATA PROFIL -->
+    <string name="profile_nama">Suci Rahmawati</string>
+    <string name="profile_email">sucikhairudin1212@gmail.com</string>
+    <string name="profile_noHp">082391105346</string>
+    <string name="profile_nim">6304240019</string>
+    <string name="profile_prodi">RPL</string>
+    <string name="profile_jurusan">TI</string>
+    <string name="profile_pt">Politeknik Negeri Bengkalis</string>
+    <string name="profile_tentang">Saya adalah mahasiswa Program Studi Rekayasa Perangkat Lunak</string>
+
+    <!-- Menu: Product  -->
+    <string name="desc_gambar_produk">Gambar produk</string>
+    <string name="label_deskripsi">Deskripsi</string>
+    <string name="fmt_price">$%1$.2f</string>
+    <string name="fmt_rating_stock">★ %1$.1f  •  Stok: %2$d</string>
+    <string name="fmt_id">ID Produk: %1$d</string>
+    <string name="fmt_rating">Rating: ★ %1$.2f</string>
+    <string name="fmt_stock">Stok: %1$d</string>
+    <string name="fmt_availability">Ketersediaan: %1$s</string>
+    <string name="fmt_tags">Tags: %1$s</string>
+    <string name="fmt_dimensions">Dimensi (L × T × K): %1$.2f × %2$.2f × %3$.2f</string>
+    <string name="fmt_reviews_title">Ulasan (%1$d)</string>
+    <string name="fmt_review_rating">★ %1$d/5</string>
+</resources>
